@@ -1,7 +1,7 @@
 # Summary
 
 * [4 监控](chapter4/4.0.md)
-  * [4.1理想的监控策略](chapter4/4.1.md)
+  * [4.1监控策略的理想特征](chapter4/4.1.md)
   * [4.2监控数据来源](chapter4/4.2.md)
   * [4.3监控系统管理](chapter4/4.3.md)
   * [4.4度量指标](chapter4/4.4.md)
